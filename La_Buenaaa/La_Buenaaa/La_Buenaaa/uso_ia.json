@@ -1,0 +1,446 @@
+{
+  "total": 43,
+  "por_dominio": {
+    "base_datos": 16,
+    "ciberseguridad": 27
+  },
+  "historial": [
+    {
+      "fecha_hora": "2026-10-27T10:14:20",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "que es ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:38:49",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "ciberseguridad que es",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:38:49",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "ciberseguridad que es",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:39:54",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "Cloud Security",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:40:22",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": " Cloud Security",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:40:49",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": " que es Cloud Security",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-27T10:44:16",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "que es Ciberseguridad",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:21:29",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:22:08",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:22:15",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:22:31",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:24:10",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:24:50",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:24:59",
+      "dominio": "base_datos",
+      "capacidad": "consulta libre",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:27:51",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:27:59",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:28:21",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:30:58",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:33:02",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:34:16",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:38:18",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-10-28T10:39:58",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "¿Qué es sharding en una base de datos?",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:26:48",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ciber",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:27:28",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:30:09",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "la buena que es Puchi",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:31:00",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:31:37",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es pi",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:31:59",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es wahl",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:34:10",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "como siempre y comieron perdiste ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:35:42",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "agente arquitecto digital la buena",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:37:51",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es ci",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:38:12",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:40:29",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ci",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:41:14",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es la",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:42:22",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ciber",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:46:30",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:46:53",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:51:20",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:56:00",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "la buena que es ciberseguridad",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:56:31",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "Dime algo más sobre la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T01:59:42",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "Mira la",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:01:58",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ia",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:02:40",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es VPN",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:03:03",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "Dime algo sobre VPN",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:05:15",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es un VPN",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:08:21",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es una VPN",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:11:30",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es ciberseguridad",
+      "origen": "base local",
+      "motivo": "La base local contenía conocimiento suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:12:01",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "salir nunca agradece nada",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:16:34",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:16:51",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "Dime algo más sobre la ci",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    },
+    {
+      "fecha_hora": "2026-11-05T02:57:19",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "Qué es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T03:28:29",
+      "dominio": "ciberseguridad",
+      "capacidad": "enseñar",
+      "consulta": "que es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T03:29:06",
+      "dominio": "base_datos",
+      "capacidad": "enseñar",
+      "consulta": "que es la ciberseguridad",
+      "origen": "Gemini",
+      "motivo": "El concepto no fue encontrado en la base local."
+    },
+    {
+      "fecha_hora": "2026-11-05T03:30:44",
+      "dominio": "ciberseguridad",
+      "capacidad": "consulta libre",
+      "consulta": "que es la ciberseguridad\n",
+      "origen": "Gemini",
+      "motivo": "La base local no contenía una respuesta suficiente."
+    }
+  ],
+  "respuestas_locales": 11,
+  "respuestas_locales_por_dominio": {
+    "base_datos": 4,
+    "ciberseguridad": 7
+  }
+}
